@@ -1,0 +1,12 @@
+{
+  "name": "cre-property-research-dev",
+  "owner": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+  "plugins": [{
+    "name": "cre-property-research",
+    "source": "./",
+    "description": "Comprehensive commercial real estate property research and market analysis",
+    "version": "1.0.6",
+    "author": {"name": "Drew Burchfield", "url": "https://github.com/drewburchfield"},
+    "category": "research"
+  }]
+}
